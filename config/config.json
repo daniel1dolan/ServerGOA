@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "danielaustin",
+    "database": "postgres",
+    "host": "outdoors.ci4z2r4vbmgv.us-east-2.rds.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "danielaustin",
+    "database": "postgres",
+    "host": "outdoors.ci4z2r4vbmgv.us-east-2.rds.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "danielaustin",
+    "database": "database_production",
+    "host": "outdoors.ci4z2r4vbmgv.us-east-2.rds.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
